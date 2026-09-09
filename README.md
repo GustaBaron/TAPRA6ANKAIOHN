@@ -1,5 +1,5 @@
 # TAPRA6ANKAIOHN
 
-Alunos: Kaio H.Natal; Alex Allan, joão da rosa, gustavo alexandre
+Alunos: Kaio H.Natal; Alex Allan; João Vitor da Rosa; Gustavo Alexandre
 
-Gits: KaioHN; llanrss; gustabarão;  
+Gits: KaioHN; llanrss; GustaBaron; Rosajoaohttps 
