@@ -2,4 +2,4 @@
 
 Alunos: Kaio H.Natal; Alex Allan; Gustavo Alexandre
 
-Gits: KaioHN; llanrss; GustaBaron; Rosajoaohttps 
+Gits: KaioHN; llanrss; GustaBaron
